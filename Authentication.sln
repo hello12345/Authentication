@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookieAuthentication_webApi", "CookieAuthentication_webApi\CookieAuthentication_webApi.csproj", "{0EC02501-4CA2-414F-936B-91ECAE4EB6B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TokenBasedAuthentication", "TokenBasedAuthentication\TokenBasedAuthentication.csproj", "{60BE8A8E-6C9A-487C-A531-02147166CC30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolicyBasedAuthorisation", "PolicyBasedAuthorisation\PolicyBasedAuthorisation.csproj", "{2316B412-DF2A-48B6-A851-17A6E0098461}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoFactorAuthentication", "TwoFactorAuthentication\TwoFactorAuthentication.csproj", "{08AE31BF-A06F-4D92-838C-EE96CB96E093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAuthontication", "WindowsAuthontication\WindowsAuthontication.csproj", "{D3D1E83B-D443-4573-B3F4-9516CCAC3F05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindAuthontication1", "WindAuthontication1\WindAuthontication1.csproj", "{43B76F02-4DF5-4F88-8FCB-6F364CCF474A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC02501-4CA2-414F-936B-91ECAE4EB6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC02501-4CA2-414F-936B-91ECAE4EB6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC02501-4CA2-414F-936B-91ECAE4EB6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC02501-4CA2-414F-936B-91ECAE4EB6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BE8A8E-6C9A-487C-A531-02147166CC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BE8A8E-6C9A-487C-A531-02147166CC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BE8A8E-6C9A-487C-A531-02147166CC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BE8A8E-6C9A-487C-A531-02147166CC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2316B412-DF2A-48B6-A851-17A6E0098461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2316B412-DF2A-48B6-A851-17A6E0098461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2316B412-DF2A-48B6-A851-17A6E0098461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2316B412-DF2A-48B6-A851-17A6E0098461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08AE31BF-A06F-4D92-838C-EE96CB96E093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AE31BF-A06F-4D92-838C-EE96CB96E093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AE31BF-A06F-4D92-838C-EE96CB96E093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AE31BF-A06F-4D92-838C-EE96CB96E093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D1E83B-D443-4573-B3F4-9516CCAC3F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D1E83B-D443-4573-B3F4-9516CCAC3F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D1E83B-D443-4573-B3F4-9516CCAC3F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D1E83B-D443-4573-B3F4-9516CCAC3F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B76F02-4DF5-4F88-8FCB-6F364CCF474A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B76F02-4DF5-4F88-8FCB-6F364CCF474A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B76F02-4DF5-4F88-8FCB-6F364CCF474A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B76F02-4DF5-4F88-8FCB-6F364CCF474A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFC54EB-DC63-4BE4-882F-E2FA470AA5DF}
+	EndGlobalSection
+EndGlobal
